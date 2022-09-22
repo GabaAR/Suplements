@@ -6,13 +6,27 @@
   background-color: rgba(51, 50, 50, 0.582);
 }
 body{min-width: 1000px;
-    background-image: url(../img/wallpapper.jpg);
+    background-image: url(../img/b.jpg);
+
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: fixed;
 }
+nav {
+
+    box-shadow: 3px 10px 40px rgba(46, 46, 49);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(46, 46, 49,0.90);
+    height: 15vh;
+    text-decoration: none;
+    list-style: none;
+    padding-top: 20px;
+}
+
 .barra2{
     background-color: rgba(0, 0, 0, 0.753);
     border-top: 0px;
